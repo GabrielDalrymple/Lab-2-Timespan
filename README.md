@@ -61,6 +61,6 @@
 
     Grade:
         41.5 / 50
-            -1.0: Fuller set of verbs, such as changeAvailable
-            -2.0: No comments
-            -5.5: normalization errors
+            -1.0: VendingBank - Fuller set of verbs, such as changeAvailable
+            -2.0: Comments - No comments
+            -5.5: Correctness - Normalization errors
