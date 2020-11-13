@@ -59,8 +59,8 @@
                 Hours: 3, Minutes: 2, Seconds: 1
             Please use this EXACT format.
 
-        Grade:
+    Grade:
         41.5 / 50
-         -1.0: Fuller set of verbs, such as changeAvailable
-         -2.0: No comments
-         -5.5: normalization errors
+            -1.0: Fuller set of verbs, such as changeAvailable
+            -2.0: No comments
+            -5.5: normalization errors
